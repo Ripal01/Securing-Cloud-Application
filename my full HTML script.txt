@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>My Blog</title>
+    <link rel="stylesheet" href="./assets/css/style.css" />
+</head>
+
+<body>
+    <!-- navigation -->
+    <header>
+        <h1>
+            <a href="/">
+                RIPAL PATEL'S CYBER BLOG
+            </a>
+        </h1>
+        <a href="mailto:patel.ripal37@yahoo.com" class="button">Send Email</a>
+        <a href="https://www.linkedin.com/in/ripalpatel1/" class="linkedin"><img
+                src="https://drive.google.com/uc?export=view&id=14GW-oOoadlMxUGs5FvKkgGkrihtkFyUh" alt="LinkedIn logo"
+                height="45px"></a>
+    </header>
+
+
+    <!-- "About" section -->
+    <section id="about" class="intro">
+        <!--Replace with your own image-->
+        <img src="https://drive.google.com/uc?export=view&id=1U-wl2TGHO9xs4xdSRBh4Xd-nt-xIsRyo"
+            alt="Robert Smith picture" height=375px;>
+        <h2 class="section-title">Hi, I'm Ripal!</h2>
+        <p>
+            Currently persuing cyber security bootcamp from University Of Toronto. This is my 1st test web app as my Project.
+ </p>
+    </section>
+
+<!-- "Blog Posts" section -->
+    <section id="blog-post-collection" class="blog-posts">
+        <h2 class="section-title">Blog Posts</h2>
+        <article class="blog-post">
+            <img src="https://drive.google.com/uc?export=view&id=1ueyXZqXdMHEawBDTGLVD5-Kdp1t5DUZy&rl" alt="Image 1">
+
+            <div class="blog">
+                <h3>Cloud</h3>
+                <h4>Hybrid and multi-cloud Security, training</h4>
+                <p>Day by day the usage of cloud is keep growing. While adoption of cloud , 90% of cybersecurity professionals confirmed $
+ </p>
+<br></br>
+
+               <p> On the other side, trainning and certification is the most in demand path to meet all security needs. Around fifty per$
+                    </p>
+<br></br>
+
+                  <p> Many top organizations are switching to Hybrid cloud and multi-cloud security option. The most popular hybrid cloud se$
+                </p>
+            </div>
+        </article>
+
+       <!-- second blog post -->
+        <article class="blog-post">
+            <img src="https://drive.google.com/uc?export=view&id=1PJrGBg8LgxHAzwhfM6drWR5fdfNQkRE4" alt="Image-2">
+            <div class="blog">
+                <h3>The Weekest link in Security</h3>
+                <h4>Human!, Easy Target, risk, Failure</h4>
+                <p> People are complex. There is no clear solution exists for human errors. people make same mistake thousands of times b$
+</p>
+<br></br>
+
+                  <p> The common cyber security risks caused by human are weak passwords and authentications. Such as, same password for mu$
+</p>
+<br></br>
+               <p>There are several types of attack which targets the human factor. Threat actors know that human error can put organiz$
+</p>
+<br></br>
+
+                <p> Most cybersecurity awareness trainning programs fail to give best practices. As well as many compnies fail to supply $
+
+                </p>
+            </div>
+        </article>
+    </section>
+</body>
+
+</html>
